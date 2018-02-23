@@ -1,0 +1,3 @@
+MICHEL,Alexis,90 avenue Georges Clemenceau H12,69230,Saint Genis Laval
+MICHEL,Jean,Monsieur,info.mec4@gmail.com,0606060606
+LANDES,Charlotte,Madame,info.mec4@gmail.com,0707070707
